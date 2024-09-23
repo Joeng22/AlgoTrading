@@ -1,0 +1,4 @@
+nsepython
+yfinance
+pandas
+numpy
